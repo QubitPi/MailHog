@@ -10,6 +10,9 @@ site_url: 'https://mailhog.qubitpi.org'
 
 theme:
   name: 'material'
+  font:
+    text: Poppins
+    code: Ubuntu Mono
   custom_dir: 'docs/overrides/'
   favicon: assets/logo/favicon.ico
   logo: assets/logo/logo.png
